@@ -24,3 +24,5 @@ __pycache__
 kaggle/*/data/
 *.zip
 *.csv
+neuralstyle/checks/
+imagenet-vgg-verydeep-19.mat
